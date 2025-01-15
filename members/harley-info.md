@@ -15,4 +15,4 @@ Networking and Linux.
 
 -- Languages
 
-- Proficient: JavaScript, Python, Java
+- Proficient: JavaScript, Python, Java.
