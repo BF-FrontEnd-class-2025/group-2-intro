@@ -1,6 +1,8 @@
-# Hi! 👋 Welcome to My GitHub Profile!
+# Hi! 👋 Welcome to My GitHub Profile
 
-## About Me:
+![Harley](./img/harley.jpeg)
+
+## About Me
 
 I am Harley and a passionate and dedicated Frontend Developer with 1 years of
 experience in creating visually appealing and user-friendly web applications. My
