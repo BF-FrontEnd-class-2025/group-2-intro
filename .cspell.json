@@ -1,6 +1,22 @@
 {
   "language": "en",
-  "words": ["HackYourFutureBelgium", "HackYourFuture", "CCNA", "Nepo","Sajid","Hussain","UNHRC","Sabir","IELTS","Nederland’s"],
+  "words": [
+    "HackYourFutureBelgium",
+    "HackYourFuture",
+    "CCNA",
+    "Nepo",
+    "Sajid",
+    "Hussain",
+    "UNHRC",
+    "Sabir",
+    "IELTS",
+    "Nederland’s",
+    "Canva",
+    "Photoshop",
+    "Daniiel",
+    "Epitech",
+    "Mykytiuk"
+  ],
   "ignorePaths": [
     "node_modules/**",
     "package.json",

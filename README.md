@@ -1,48 +1,36 @@
-# (project name)
+# Group 2 Introduction
 
-<!-- describe your project -->
+Hello! Welcome to our group! We are **group 2** at *Hack Your Future*👋
 
-## Getting Started
+We are a diverse group of individuals, each with unique backgrounds and
+experiences, coming together with a shared interest in coding. Whether you are
+here to learn, share knowledge, or connect with others, we hope you feel
+welcomed and supported.
 
-<!-- a guide to using this repository -->
+## About Us
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+- **Name**: Group 2
+- **Members**: 4
+- **Focus**: Front-end Programming
+- **Location**: Epitech
 
-## Code Quality Checks
+## Group Goals
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+- Foster a collaborative environment where everyone can share their ideas and
+  expertise.
+- Encourage active participation and respectful discussions.
+- Provide resources, tools, and opportunities to help each member grow.
+- Create lasting connections through shared interests.
 
-## Continuous Integration (CI)
+## Member Introduction
 
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
+| Name                                         |                       Photo                       |
+| :------------------------------------------- | :-----------------------------------------------: |
+| [Catherine Lin](./members/catherine-info.md) | ![Catherine's photo](./members/img/catherine.png) |
+| [Mykytiuk Daniiel](./members/daniel-info.md) |    ![Daniel's photo](./members/img/daniel.jpg)    |
+| [Harley Clair](./members/harley-info.md)     |   ![Harley's photo](./members/img/harley.jpeg)    |
+| [Sajid Hussain](./members/sajid-info.md)     |     ![Sajid's photo](./members/img/sajid.jpg)     |
 
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
+We look forward to learning and growing together. 🚀
 
-## Repo Setup
-
-- Give each member **_write_** access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Go to _General_ Section > check **Discussions**
-- In the _Branches_ section of your repo's settings make sure the
-  `master`/`main` branch must:
-  - "_Require a pull request before merging_"
-  - "_Require approvals_"
-  - "_Dismiss stale pull request approvals when new commits are pushed_"
-  - "_Require status checks to pass before merging_"
-  - "_Require branches to be up to date before merging_"
-  - "_Do not allow bypassing the above settings_"
+Feel free to reach out if you have any questions.
