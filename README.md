@@ -24,12 +24,9 @@ welcomed and supported.
 
 ## Member Introduction
 
-| Name                                         |                       Photo                       |
-| :------------------------------------------- | :-----------------------------------------------: |
-| [Catherine Lin](./members/catherine-info.md) | ![Catherine's photo](./members/img/catherine.png) |
-| [Mykytiuk Daniiel](./members/daniel-info.md) |    ![Daniel's photo](./members/img/daniel.jpg)    |
-| [Harley Clair](./members/harley-info.md)     |   ![Harley's photo](./members/img/harley.jpeg)    |
-| [Sajid Hussain](./members/sajid-info.md)     |     ![Sajid's photo](./members/img/sajid.jpg)     |
+| [Catherine Lin](./members/catherine-info.md)  | [Mykytiuk Daniiel](./members/daniel-info.md) | [Harley Clair](./members/harley-info.md)     | [Sajid Hussain](./members/sajid-info.md)     |
+| :---: | :---: | :---: | :---: |
+|  <img src="./members/img/catherine.png" width="200" alt="catherine's photo" /> | <img src="./members/img/daniel.jpg" width="200" alt="daniiel's photo" />  | <img src="./members/img/harley.jpeg" width="200" alt="harley's photo" />    |  <img src="./members/img/sajid.jpg" width="200" alt="sajid's photo" />    |
 
 We look forward to learning and growing together. 🚀
 
