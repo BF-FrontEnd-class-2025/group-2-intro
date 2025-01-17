@@ -1,6 +1,6 @@
 # Hi! 👋 Welcome to My GitHub Profile
 
-![Harley](./img/harley.jpeg)
+- <img src="./img/harley.jpeg" width="200" alt="harley's photo" />
 
 ## About Me
 
